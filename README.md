@@ -1,4 +1,4 @@
-# New Era University – Composite Design Pattern
+# Composite Design Pattern
 
 A Java implementation of the **Composite Design Pattern** modeling the organizational structure of New Era University (Colleges, Departments, Teachers, and Students).
 
@@ -82,8 +82,3 @@ TOTAL BUDGET OF NEW ERA UNIVERSITY: PHP 128000.00
 
 ---
 
-## Lab Assignment
-
-**Course:** Software Design Patterns  
-**Institution:** New Era University  
-**Pattern:** Composite (Structural)
